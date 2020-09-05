@@ -1,0 +1,6 @@
+Owner:
+	- Register yourself;
+	- Register your places;
+	- Consult your calendar;
+	- Make previsions about how much money you'll own;
+	- Check your next client;
